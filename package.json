@@ -1,0 +1,14 @@
+{
+  "name": "odd_even_number",
+  "version": "1.0.0",
+  "description": "Returns if a number is an even number or an odd one.",
+  "main": "odd_even_num.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LucasGoncSilva",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
